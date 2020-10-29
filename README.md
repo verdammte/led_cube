@@ -1,4 +1,4 @@
-# led_cube
+# led_cube Software (host)
 I wanted to create the cpu statistic LED monitoring cube from here: https://there.oughta.be/an/led-cube. However, 
 it is not compatible with a windows based host computer. The python library it uses does not support Windows. I set out
 to make a C# version of the hosting program that is compatible with Windows.
